@@ -25,10 +25,22 @@ When reviewing the Lots individually both variances for Lot 1 & 2 are within the
 A one-sample t-test was used to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 
 The summary of the t-test results for all manufacturing lots are shown below:
+
 <img width="409" alt="t-test all" src="https://user-images.githubusercontent.com/81877387/128605362-216a5c8f-9575-4cb0-9131-69f30e00172f.png">
+
 The results show the mean of this sample is **1498.78** with a p-Value of **0.06**. This is higher than the assumed significance level of 0.05%, concluding that all three lots are statistically similar.
 Looking at the t-test results and p-Values for individual lots, both Lot 1 and Lot 2 results support the above conclusion (p-Values above 0.05).
 However Lot 3, the p-Value is lower than the assumed significance level of 0.05 (**0.041**).
+
+### Lot 1 T-Test Results:
+<img width="522" alt="t-test Lot 1" src="https://user-images.githubusercontent.com/81877387/128606690-f7573720-aa6c-4e43-a190-9f42f9c6f674.png">
+
+### Lot 2 T-Test Results:
+<img width="520" alt="t-test Lot 2" src="https://user-images.githubusercontent.com/81877387/128606699-680bcff1-9ec6-4ac8-a747-2a65b579152c.png">
+
+### Lot 3 T-Test Results:
+<img width="539" alt="t-test Lot 3" src="https://user-images.githubusercontent.com/81877387/128606711-ffba57cf-8282-4f72-9770-01970a49c187.png">
+
 
 ## Study Design: MechaCar vs Competition
 ### Safety Rating of MechaCar 
