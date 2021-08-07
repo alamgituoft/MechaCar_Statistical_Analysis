@@ -18,4 +18,5 @@ Below the variance of suspension coils of all three lots combined was **62.29** 
 <img width="343" alt="Total Summary" src="https://user-images.githubusercontent.com/81877387/128604779-f6d3835b-6dbb-48e3-8f47-e478f7c178b3.png">
 
 When reviewing the Lots individually both variances for Lot 1 & 2 are within the design specifications. However the variance in Lot 3 is very high and exeeds the manufacturers specifications **(170.28)**.
+
 <img width="510" alt="Lot Summary" src="https://user-images.githubusercontent.com/81877387/128604781-d5edaf6d-83d9-4fdf-9d88-9ce64610a2ca.png">
