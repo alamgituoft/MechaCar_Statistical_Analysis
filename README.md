@@ -20,3 +20,39 @@ Below the variance of suspension coils of all three lots combined was **62.29** 
 When reviewing the Lots individually both variances for Lot 1 & 2 are within the design specifications. However the variance in Lot 3 is very high and exeeds the manufacturers specifications **(170.28)**.
 
 <img width="510" alt="Lot Summary" src="https://user-images.githubusercontent.com/81877387/128604781-d5edaf6d-83d9-4fdf-9d88-9ce64610a2ca.png">
+
+## T-Tests on Suspension Coils
+A one-sample t-test was used to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
+
+The summary of the t-test results for all manufacturing lots are shown below:
+<img width="409" alt="t-test all" src="https://user-images.githubusercontent.com/81877387/128605362-216a5c8f-9575-4cb0-9131-69f30e00172f.png">
+The results show the mean of this sample is **1498.78** with a p-Value of **0.06**. This is higher than the assumed significance level of 0.05%, concluding that all three lots are statistically similar.
+Looking at the t-test results and p-Values for individual lots, both Lot 1 and Lot 2 results support the above conclusion (p-Values above 0.05).
+However Lot 3, the p-Value is lower than the assumed significance level of 0.05 (**0.041**).
+
+## Study Design: MechaCar vs Competition
+### Safety Rating of MechaCar 
+The safety ratings of vehicles can be one of the top metrics that customers value when investing into the right vehicle. A higher safety rating can provide reassurance to customers and may also drive down the cost of insurance. A vehicle with a lower safety rating may not be appealing to customers, due to things like the risk of maintenance costs and safety for themselves, their families and the public. 
+
+### Metrics
+* Safety rating compared to competition
+* Relationship for the sales of vehicles to safety ratings
+
+### Hypothesis
+### Null hypothesis: The safety rating of MechaCars does not drive the sales of their vehicles compared to their competitors.
+### Alternative hypothesis: The safety rating of MechaCars does drive the sales of their vehicles compared to their competitors.
+
+### Stastical Test
+A multiple linear regression model can be used to test these hypothesis.
+
+### Data Required
+The data that may be required for this test would include: 
+* Sales data for MechaCar & competitors
+* Safety ratings for MechaCar & competitors
+
+
+
+
+
+
+
