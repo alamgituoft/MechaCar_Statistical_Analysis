@@ -1,5 +1,7 @@
 # MechaCar_Statistical_Analysis
 
+![image](https://user-images.githubusercontent.com/81877387/155234987-29928d6a-8682-482a-a71b-af7e8f09206b.png)
+
 ## Project Overview 
 An analysis project using R & statistics to review the production data of AUTORU's newest prototype for insights that may help the manufacturing team. 
 
