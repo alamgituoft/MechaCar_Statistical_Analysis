@@ -1,6 +1,13 @@
 # MechaCar_Statistical_Analysis
 
-## Linear Regression to Predict MPG
+## Project Overview 
+An analysis project using R & statistics to review the production data of AUTORU's newest prototype for insights that may help the manufacturing team. 
+
+## Resources 
+Software: R, RStudio
+
+## Using Linear Regression to Predict MPG
+
 ### Summary Results 
 <img width="812" alt="Linear Regression Del 1" src="https://user-images.githubusercontent.com/81877387/128602897-7c892ca9-78c9-4247-9d17-ed149bd72192.png">
 The results show:
